@@ -9,12 +9,12 @@
 
 ## Installation  
 1. Install **LSPosed** framework  
-2. Download and install **[PrimeModsFF APK](https://github.com/Xposed-Modules-Repo/com.toxic.prime.ff/releases/download)**  
+2. Download and install **[PrimeModsFF APK](https://github.com/Xposed-Modules-Repo/com.toxic.prime.ff/releases)**  
 3. Enable the module in **LSPosed**  
 4. Reboot your device  
 
 ## Download  
-📥 [Latest Release](https://github.com/Xposed-Modules-Repo/com.toxic.prime.ff/releases/download)  
+📥 [Latest Release](https://github.com/Xposed-Modules-Repo/com.toxic.prime.ff/releases)  
 
 ## Requirements  
 - **Android 8.0+ (API 27+)**  
