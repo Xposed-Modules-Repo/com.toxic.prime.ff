@@ -14,12 +14,12 @@
 4. Reboot your device  
 
 ## Download  
-📥 [Latest Release](https://github.com/Xposed-Modules-Repo/com.toxic.prime.ff/releases)  
+📥 [Latest Release](https://github.com/Xposed-Modules-Repo/com.toxic.prime.ff/releases/tag/V1.0/pmd-v1_sign.apk)  
 
 ## Requirements  
 - **Android 8.0+ (API 27+)**  
 - **LSPosed Framework**  
-- **Root Access (Optional for extra features)**  
+- **Root Access Needed**  
 
 ## Changelog  
 ### v1.0 - Initial Release  
