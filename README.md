@@ -1,6 +1,6 @@
-# PrimeModsFF - LSPosed Module  
+# PrimeMods - LSPosed Module  
 
-**PrimeModsFF** is a VIP features for Games, offering exclusive gameplay enhancements, premium features, and advanced tweaks using LSPosed. Unlock powerful optimizations for the best gaming experience.  
+**PrimeMods** is a VIP features for Games, offering exclusive gameplay enhancements, premium features, and advanced tweaks using LSPosed. Unlock powerful optimizations for the best gaming experience.  
 
 ## Features  
 ✅ Custom gameplay tweaks  
@@ -9,7 +9,7 @@
 
 ## Installation  
 1. Install **LSPosed** framework  
-2. Download and install **[PrimeModsFF APK](https://github.com/Xposed-Modules-Repo/com.toxic.prime.ff/releases)**  
+2. Download and install **[PrimeMods Module](https://github.com/Xposed-Modules-Repo/com.toxic.prime.ff/releases)**  
 3. Enable the module in **LSPosed**  
 4. Reboot your device  
 
