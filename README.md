@@ -1,4 +1,4 @@
-# PrimeModsFF - VIP Mod for Free Fire using LSPosed
+# PrimeModsFF
 
 PrimeModsFF is an advanced LSPosed module designed to enhance the Free Fire gaming experience. This VIP mod offers exclusive gameplay tweaks, performance optimizations, and premium features for a smoother and more powerful gaming experience.
 
