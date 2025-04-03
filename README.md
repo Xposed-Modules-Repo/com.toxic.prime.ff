@@ -14,7 +14,7 @@
 4. Reboot your device  
 
 ## Download  
-📥 [Latest Release](https://github.com/Xposed-Modules-Repo/com.toxic.prime.ff/releases/download/1-1.0/app-release.apk)  
+📥 [Latest Release](https://github.com/Xposed-Modules-Repo/com.toxic.prime.ff/releases/download/2-2.0/release-v2.apk)  
 
 ## Requirements  
 - **Android 8.0+ (API 27+)**  
