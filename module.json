@@ -1,0 +1,15 @@
+{
+  "modules": [
+    {
+      "package": "com.toxic.prime.ff",
+      "name": "PrimeModsFF",
+      "versionCode": 1,
+      "versionName": "1.0",
+      "description": "PrimeModsFF is a VIP mod for Free Fire, offering exclusive gameplay enhancements, premium features, and advanced tweaks using LSPosed. Unlock powerful optimizations for the best gaming experience.",
+      "downloadUrl": "https://github.com/ToxicXRoot/PrimeModsLspModule/releases/download/PrimeMods-v1.0/PrimeModsFF.apk",
+      "changelog": "Initial release with VIP mod features and performance improvements.",
+      "minApi": 27,
+      "targetApi": 34
+    }
+  ]
+}
